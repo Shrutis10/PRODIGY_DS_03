@@ -1,6 +1,6 @@
 # PRODIGY_Data_Science_03
 
-# Title: Predicting Customer Purchases with Decision Tree Classifier
+## Title: Predicting Customer Purchases with Decision Tree Classifier
 
 **OVERVIEW:**
 
